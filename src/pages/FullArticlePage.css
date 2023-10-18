@@ -1,0 +1,47 @@
+.article-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.back-button {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.article-link {
+  text-decoration: none;
+  padding: 1px;
+}
+.article-link:hover {
+  text-decoration: underline;
+  color:"green";
+  /* transition: all 0.3s ease-in-out; */
+}
+
+.article-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.article-abstract {
+  color: #555;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.view-full-article-button {
+  margin-top: 20px;
+}
+
+.bookmark-button {
+  display: flex;
+  justify-content: end;
+  justify-items: end;
+}

@@ -1,0 +1,31 @@
+.heading{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.app-container {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+
+  
+  .bookmarks-container {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bookmark-item {
+    margin-bottom: 20px;
+  }
+  
+  .bookmark-link {
+    text-decoration: none;
+  }
+
+  
